@@ -14,7 +14,7 @@
   </div>
   
   <h1>
-    hey there
+    Hola
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -28,6 +28,8 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+With expertise in Reactjs and Nodejs, specializing in crafting seamless user experiences for web applications.
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
@@ -57,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>
 </div>
 
 ---
